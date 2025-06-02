@@ -1,17 +1,12 @@
 <h1 align="left">Hi 👋, I'm Sneha Jha</h1>
 
-<!-- Profile Image -->
-<div align="left">
-  <img src="https://lh3.googleusercontent.com/pw/AMWts8C2nP4RANDOMEXAMPLELINK.jpg" height="200" alt="Sneha Jha photo" />
-</div>
-
 <p align="left">I am passionate about web development and building innovative software projects.</p>
 
 <h2 align="left"></h2>
 
 <p align="left">
   • 🌱 I’m currently learning Web Development<br>
-  • 📫 How to reach me: jhasneha988350@gmail.com<br>
+  • 📫 How to reach me: <a href="mailto:jhasneha988350@gmail.com">jhasneha988350@gmail.com</a><br>
   • 🔁 Fun Fact: I’ve renamed the same variable five times just to feel productive.
 </p>
 
