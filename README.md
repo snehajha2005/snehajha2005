@@ -39,7 +39,7 @@
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha-jha-078212311/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 </div>
