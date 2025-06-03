@@ -12,11 +12,16 @@
 
 ---
 
+<!-- Right-aligned GIF Image (now with width 400px) -->
+<p>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding gif" />
+</p>
+
 ### 💡 About Me
 
 - 🌱 I’m currently learning Web Development  
 - 📫 How to reach me: [jhasneha988350@gmail.com](mailto:jhasneha988350@gmail.com)  
-- 🔁 **Fun Fact:** I’ve renamed the same variable five times just to feel productive  
+- 🔁 **Fun Fact:** I’ve renamed the same variable five times just to feel productive
 
 ---
 
