@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm Sneha Jha</h1>
 
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SnehaJha&label=Profile%20views&color=0e75b6&style=flat" alt="SnehaJha" />
+</p>
+
 <p align="left">I am passionate about web development and building innovative software projects.</p>
 
 <h2 align="left"></h2>
