@@ -3,18 +3,16 @@
 
 <h1 align="left">Hi 👋, I'm Sneha Jha</h1>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter (Single & Stylish) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SnehaJha&label=Profile%20views&color=0e75b6&style=flat" alt="SnehaJha" />
+  <img src="https://komarev.com/ghpvc/?username=SnehaJha&label=👀%20Profile%20Views&color=ff69b4&style=flat-square" alt="SnehaJha" />
 </p>
 
 <p align="left">I am passionate about web development and building innovative software projects.</p>
 
----
-
-<!-- Right-aligned GIF Image (now with width 400px) -->
+<!-- Right-aligned GIF Image -->
 <p>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding gif" />
+  <img align="right" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" width="400" alt="coding gif" />
 </p>
 
 ### 💡 About Me
@@ -22,8 +20,6 @@
 - 🌱 I’m currently learning Web Development  
 - 📫 How to reach me: [jhasneha988350@gmail.com](mailto:jhasneha988350@gmail.com)  
 - 🔁 **Fun Fact:** I’ve renamed the same variable five times just to feel productive
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -38,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
-
----
 
 ### 🌐 Connect with Me
 
