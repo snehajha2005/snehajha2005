@@ -1,14 +1,16 @@
 <!-- Banner Image -->
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*RFK3by-HAKtaTYUp.gif" alt="Sneha Jha's Banner" style="width:100%; border-radius:10px;" />
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*RFK3by-HAKtaTYUp.gif" alt="Sneha Jha's Banner" style="width:100%; border-radius:10px;" />
+</p>
 
-<h1 align="left">Hi 👋, I'm Sneha Jha</h1>
+<!-- Enlarged and Centered Intro -->
+<h1 align="center" style="font-size: 40px;">Hi 👋, I'm Sneha Jha</h1>
+<p align="center">I am passionate about web development and building innovative software projects.</p>
 
-<!-- Profile Views Counter (Single & Stylish) -->
+<!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SnehaJha&label=👀%20Profile%20Views&color=ff69b4&style=flat-square" alt="SnehaJha" />
 </p>
-
-<p align="left">I am passionate about web development and building innovative software projects.</p>
 
 <!-- Right-aligned GIF Image -->
 <p>
