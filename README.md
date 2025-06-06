@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning Web Development  
 - 📫 How to reach me: [jhasneha988350@gmail.com](mailto:jhasneha988350@gmail.com)  
-- 🔁 **Fun Fact:** I’ve renamed the same variable five times just to feel productive
+- 🔁 *Fun Fact:* I’ve renamed the same variable five times just to feel productive
 
-### 🛠️ Languages and Tools
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
