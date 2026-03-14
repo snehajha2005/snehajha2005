@@ -12,7 +12,7 @@
 
 <!-- Right-aligned GIF Image -->
 <p>
-<img align="right" height="250" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="250" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 ### 💡 About Me
