@@ -1,6 +1,6 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*RFK3by-HAKtaTYUp.gif" alt="Sneha Jha's Banner" style="width:100%; border-radius:10px;" />
+<p>
+<img align="right" height="250" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
 </p>
 
 <!-- Enlarged and Centered Intro -->
