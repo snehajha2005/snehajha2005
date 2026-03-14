@@ -1,7 +1,5 @@
-<!-- Banner Image -->
-<p>
-<img align="right" height="250" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
-</p>
+
+
 
 <!-- Enlarged and Centered Intro -->
 <h1 align="center" style="font-size: 40px;">Hi 👋, I'm Sneha Jha</h1>
@@ -14,7 +12,7 @@
 
 <!-- Right-aligned GIF Image -->
 <p>
-<img align="right" height="250" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="250" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 
 ### 💡 About Me
