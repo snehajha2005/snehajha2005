@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/snehajha2005/snehajha2005/main/banner.jpg" width="100%">
+</p>
 
 
 <!-- Enlarged and Centered Intro -->
